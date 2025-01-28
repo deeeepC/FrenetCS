@@ -1,4 +1,4 @@
-# Vehicle Trajectory Modeling with Frenet Coordinates
+# Vehicle Trajectory Modelling with Frenet Coordinates
 
 An R implementation of trajectory prediction, behavior planning, and jerk-minimised path optimisation using Frenet-Serret dynamics, as described in *"Mathematical Modelling of Vehicle Trajectories Using the Frenet Coordinate System"*.
 
